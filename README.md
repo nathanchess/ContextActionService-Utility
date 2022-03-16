@@ -6,7 +6,9 @@ A easy to use module to quickly re-bind context action services and set input mo
 ## Module Overview
 
 `Verifier`: Contains different input types, which are in charge of filtering context action service.
+
 `Config`: Configure your binds here.
+
 `BindActions`: Functions called after input has passed `Verifier` checks.
 
 ## Installing Utility
