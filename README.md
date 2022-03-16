@@ -33,3 +33,4 @@ A easy to use module to quickly re-bind context action services and set input mo
 
 ## Configuring Binds
 
+**TO BE ADDED**
