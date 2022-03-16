@@ -27,7 +27,7 @@ Note: Your replicated storage does **not** have to utilize these folders.
 
 ![Capture](https://user-images.githubusercontent.com/59159552/158519857-b6a2c345-c013-4eed-8144-62e502061859.PNG)
 
-4.**Finished!!** Now feel free to configure your binds and settings within the `Config` module. 
+4. Finished! Now go and configure your `Config` module to personalize the utility.
 
 ----
 
