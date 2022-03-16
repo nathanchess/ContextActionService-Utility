@@ -5,7 +5,7 @@ A easy to use module to quickly re-bind context action services and set input mo
 (Credits: Fully created by scasting)
 
 
-## Module Overview
+## Sub-Module Overview
 
 `Verifier`: Contains different input types, which are in charge of filtering context action service.
 
