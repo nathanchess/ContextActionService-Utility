@@ -3,6 +3,12 @@
 A easy to use module to quickly re-bind context action services and set input modes.
 (Credits: Fully created by scasting)
 
+## Module Overview
+
+`Verifier`: Contains different input types, which are in charge of filtering context action service.
+`Config`: Configure your binds here.
+`BindActions`: Functions called after input has passed `Verifier` checks.
+
 ## Installing Utility
 
 1.Place the module within your `ReplicatedStorage` 
@@ -22,3 +28,6 @@ Note: Your replicated storage does **not** have to utilize these folders.
 4.**Finished!!** Now feel free to configure your binds and settings within the `Config` module. 
 
 ----
+
+## Configuring Binds
+
