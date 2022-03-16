@@ -31,21 +31,19 @@ A easy to use module to quickly re-bind context action services and set input mo
 
 4. Finished! Now go and configure your `Config` module to personalize the utility.
 
-----
-
 ## Configuring Binds
 
 ### InputType
 
-1. KeyRelease: Fired when key is released. 
+1. **KeyRelease**: Fired when key is released. 
 
 Parameters: (None)
 
-2. KeyTapped: Fired when key is initially tapped.
+2. **KeyTapped**: Fired when key is initially tapped.
 
 Parameters: (None)
 
-3. TimedHold: Fired when key is released and passes the time key was held as param. 
+3. **TimedHold**: Fired when key is released and passes the time key was held as param. 
 
 Parameters: (TimeHeld)
 
