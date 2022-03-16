@@ -2,7 +2,7 @@
 
 A easy to use module to quickly re-bind context action services and set input modes.
 
-(Credits: Fully created by scasting)
+(Credits: Fully created by Nathan Che)
 
 
 ## Sub-Module Overview
