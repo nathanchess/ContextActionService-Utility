@@ -35,4 +35,30 @@ A easy to use module to quickly re-bind context action services and set input mo
 
 ## Configuring Binds
 
-**TO BE ADDED**
+### InputType
+
+1. KeyRelease: Fired when key is released. 
+
+Parameters: (None)
+
+2. KeyTapped: Fired when key is initially tapped.
+
+Parameters: (None)
+
+3. TimedHold: Fired when key is released and passes the time key was held as param. 
+
+Parameters: (TimeHeld)
+
+---
+
+### Priority
+
+Self-explanatory. Will override any context binds with lower priority, if they are binded to the same key.
+
+---
+
+### Key
+
+Key to be binded to. 
+
+`Example: Enum.KeyCode.E, Enum.UserInputType.MouseButton1`
